@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Oleksii\source\repos\PS_VS_ITU_35_GitBasics\PS_VS_ITU_35_GitBasics\main.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  PS_VS_ITU_35_GitBasics.vcxproj -> C:\Users\Oleksii\source\repos\PS_VS_ITU_35_GitBasics\Debug\PS_VS_ITU_35_GitBasics.exe
